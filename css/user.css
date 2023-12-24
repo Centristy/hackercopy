@@ -1,0 +1,34 @@
+/* Login and signup forms */
+
+.account-form button {
+  width: 4rem;
+  margin-left: 80px;
+}
+
+#signup-form button {
+  width: 8rem;
+}
+
+.account-forms-container {
+  padding-left: 20px;
+}
+
+
+.trash-can :hover {
+  color:red;
+}
+
+#user-profile h4{
+
+  padding:20px;
+
+}
+
+#user-profile div{
+
+  margin-left:20px;
+  margin-bottom:4px;
+
+}
+
+
